@@ -1,0 +1,12 @@
+"app.name" = "같은 그림 찾기";
+
+"menu.level.title" = "난이도 선택";
+"menu.level.easy" = "쉬움";
+"menu.level.medium" = "중간";
+"menu.level.hard" = "어려움";
+
+"board.totalmovements" = "총 선택 횟수";
+"board.remainingpairs" = "남은 패";
+"board.start" = "클릭하면 시작";
+"board.won" = "승리";
+"board.lost" = "패배";
